@@ -1,16 +1,20 @@
 export const news = [
     {
-        id: 1,
-        title: "Premier Tournoi Valorant annoncé !",
-        content: "Un grand tournoi se tiendra le 15 janvier prochain. Les meilleurs clubs s'affronteront pour un cash prize de 10 000€.",
-        date: "2024-12-28",
-        author: "Lucas Sevault",
+        id: '1',
+        title: 'Patch 1.10 - Nouveaux Agents',
+        content: 'Découvrez les nouveaux agents disponibles cette saison.',
+        image: 'https://picsum.photos/600/300?random=1',
     },
     {
-        id: 2,
-        title: "Changements dans le roster de la Team Alpha",
-        content: "La Team Alpha annonce le départ de leur joueur phare et recrute une nouvelle pépite.",
-        date: "2024-12-27",
-        author: "Esport Actu",
+        id: '2',
+        title: 'Championnat Européen',
+        content: 'Retour sur le dernier tournoi Valorant Esports.',
+        image: 'https://picsum.photos/600/300?random=2',
+    },
+    {
+        id: '3',
+        title: 'Mises à jour des maps',
+        content: 'Les modifications des maps Icebox et Haven en détail.',
+        image: 'https://picsum.photos/600/300?random=3',
     },
 ];
